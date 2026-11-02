@@ -4,7 +4,7 @@ Je suis un jeune développeur Full-Stack et passionné d'infrastructure & d'auto
 
 ### 🛠️ Technologies & Outils
  - **Langages** : Python, Java, Swift, HTML, CSS, JavaScript, SQL.
- - **Frameworks & Libs** : Next.js, React, Node.js, Express, SwiftUI, Tailwind CSS.
+ - **Frameworks & Libs** : Node.js, Express, SwiftUI, Tailwind CSS, React, Next.js.
 
 ### 📁 Projets Principaux
  - **Echorys** : Un bot Discord pour la gestion des sonneries sur les serveurs RolePlay.
